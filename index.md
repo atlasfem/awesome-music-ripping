@@ -13,7 +13,7 @@ After that simply search and download what you like!
 
 ## Section 2: Torrents
 
-## Just **DONT** use them without a vpn
+### Just **DONT** use them without a vpn
 
 Torrents are the Number One way to get on your ISP's hitlist, if you can find quality rare music on a torrent go for it, the best sites are <href>https://l33tx.to and a private tracker <href> https://redacted.ch<href/>
 
