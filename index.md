@@ -5,7 +5,7 @@
 ## Section 1: DeezloaderRemix
 <p>DeezloaderRemix is the current and best fork of Deezloader, an application to rip music striaight from Deezers servers. <p/> <p>&nbsp&nbspit adds flac support, song searching from spotify, and more.<p/>
 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;<href> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download : https://notabug.org</href>
+Download : href>https://notabug.org</href>
 
  Sometimes it will ask you for a cookie/token, to get one simply sign up for a free Deezer account and open the developer tools menu. Then proceed to go to the storage tab, from there you find deezer.com and copy the arl cookie. Other times you may just have to enter email and password.
 
